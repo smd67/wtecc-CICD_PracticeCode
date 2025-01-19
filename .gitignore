@@ -8,6 +8,9 @@ unittests.xml
 # Ignore ideas
 .ideas/
 
+# Ignore idea for pycharm
+.idea/
+
 # Vagrant metadata
 .vagrant/
 
